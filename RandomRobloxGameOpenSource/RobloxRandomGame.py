@@ -63,4 +63,4 @@ button.pack()
 
 root.mainloop()
 
-#thats basicly how the code works do with what you want with the code and if anything happens its not my fault and i will not be fixing bugs for you its not out of my controll
+#thats basicly how the code works do with what you want with the code and if anything happens its not my fault and i will not be fixing bugs for you its now out of my control. -jeansluke
