@@ -3,7 +3,7 @@ This is the generator that is also in the discord bot
 
 ⚠️⚠️If you want to use the already ready file with the .exe install RandomRobloxGame⚠️⚠️
 
-⚠️⚠️And if you want use the opensource version of the script than install RandomRobloxGameOpenSource⚠️⚠️
+⚠️⚠️And if you want use the opensource version of the script than install RandomRobloxGameOpenSource in the open source branch⚠️⚠️
 
 ⚠️⚠️FOR OPENSOURCE PEOPLE I WILL NOT BE HELPING YOU WITH THE IMPORTS SO THE PIP INSTALLS (the normal exported .exe does not need any pip installs)⚠️⚠️
 
