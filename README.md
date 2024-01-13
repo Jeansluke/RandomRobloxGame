@@ -8,3 +8,5 @@ And if it lags with get roblox game button once you clicked it thats not a bug j
 And dont move anyfiles that are in the script otherwise it will break
 
 ⚠️⚠️AND I WILL NOT BE FIXING ANY CODE I JUST WANT TO RELEASE THIS⚠️⚠️
+
+-JeansLuke
